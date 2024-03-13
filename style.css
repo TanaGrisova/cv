@@ -1,0 +1,81 @@
+img
+ {
+    border-radius: 20%;
+}
+
+h3 {
+    color: white;
+    font-size: 1em;
+    text-align: left;
+    padding: 5x;
+    margin: 40px;
+}
+
+h1 {
+    color: white;
+}
+
+
+header {
+    height: 100px;
+    width: 100%;
+    text-aligh: justify;
+    padding: 10x;
+    margin: 5px;
+    border: 2px solid rgba(212, 194, 177, 0.91);
+    background-color: rgba(212, 194, 177, 0.91);
+} 
+
+
+footer {
+    height: 100px;
+    width: 100%;
+    text-aligh: justify;
+    padding: 10x;
+    margin: 5px;
+    border: 2px solid rgba(212, 194, 177, 0.91);
+    background-color: rgba(212, 194, 177, 0.91);
+} 
+
+body {
+    background: #17130dc4; /*Probereme v příštích lekcích*/
+}
+
+p
+{
+    color: white;
+    padding: 10x;
+    margin: 40px;
+}
+
+li
+{
+    color: white;
+    padding: 10x;
+    margin: 40px;
+}
+
+h2
+{
+    color: white;
+    padding: 5x;
+    margin: 40px;
+}
+
+table
+{
+    text-aligh: center;
+    width:100%;
+    table-layout: fixed;
+}
+
+td
+{
+    padding:0.5 rem;
+}
+
+a
+{
+    color: white;
+}
+
